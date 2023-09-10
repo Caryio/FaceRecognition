@@ -30,5 +30,5 @@ Independently implement a real-time face recognition Python project based on CNN
 3. Run the code.
 
 ## Thanks
-- Many, many thanks to my teacher, Pro. Pan.
+- Many, many thanks to my teacher, Prof. Pan.
 - Thanks to TA, Dr. Wang and Dr. Huang.
