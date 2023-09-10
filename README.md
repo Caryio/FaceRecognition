@@ -1,7 +1,7 @@
 # Implementation of real-time face recognition based on CNN on PYNQ Z2
 [*Demo Video*](https://youtu.be/rNg161h5d7w "Demo Video")	
 
-`This project was finished on 2022.06`
+`This project was started in 2022.02 and finished in 2022.06.`
 ## Content
 * [Abstract](#abstract)
 * [Preparation](#preparation)
