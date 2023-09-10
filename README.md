@@ -1,12 +1,15 @@
 # Implementation of real-time face recognition based on CNN on PYNQ Z2
-[Demo Video](https://youtu.be/rNg161h5d7w "Demo Video")	
+[*Demo Video*](https://youtu.be/rNg161h5d7w "Demo Video")	
 
 ## Content
 * [Abstract](#abstract)
 * [Preparation](#preparation)
 * [Approach](#approach)
 * [How to Reproduce](#how-to-reproduce)
+* [Thanks](#thanks)
+
 ## Abstract
+Independently implement a real-time face recognition Python project based on CNN convolutional neural network to display and label the captured real-time images and face recognition results on the monitor. Score: 95/100. 
 
 ## Preparation
 - PYNQ Z2 board
@@ -25,3 +28,7 @@
 1. Download the file [code.ipynb](/code.ipynb).
 2. Turn on the PYNQ Z2 board; USB webcam; monitor. And make sure all components work well.
 3. Run the code.
+
+## Thanks
+- Many, many thanks to my teacher, Pro. Pan.
+- Thanks to TA, Dr. Wang and Dr. Huang.
